@@ -201,3 +201,4 @@ npm i -g forever && forever index.js && forever save && forever logs
 - ***Credit : [TOGE](https://github.com/toge012345) for temporary qr and pairing code***
 
 ## Note that i have not yet finished session id so we will use for [TOGE-BUG-BOT] thanks for understanding ##
+# ASSISTANCE-BUG-bot
